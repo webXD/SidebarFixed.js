@@ -6,4 +6,4 @@
 先引入 jQuery 后，再引入 SidebarFixed.js 
 
 
-$(selector).SidebarFixed() 
+调用方法：$(selector).SidebarFixed() 
